@@ -1,0 +1,1086 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon against murmuring preached in the Cathedral Church of St. Peter Exon on the XXIXth of May, 1680 / Thomas Long.</title>
+            <author>Long, Thomas, 1621-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49131</idno>
+            <idno type="STC">Wing L2982</idno>
+            <idno type="STC">ESTC R180131</idno>
+            <idno type="EEBO-CITATION">09542901</idno>
+            <idno type="OCLC">ocm 09542901</idno>
+            <idno type="VID">43568</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43568)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1335:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon against murmuring preached in the Cathedral Church of St. Peter Exon on the XXIXth of May, 1680 / Thomas Long.</title>
+                  <author>Long, Thomas, 1621-1707.</author>
+               </titleStmt>
+               <extent>[6], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A sermon preached on the XXIXth of May, 1680.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43568:1"/>
+            <pb facs="tcp:43568:1" rendition="simple:additions"/>
+            <p>A SERMON AGAINST Murmuring: PREACHED in the <hi rend="blackletterType">Cathedral Church</hi> Of St. <hi>PETER</hi> EXON, On the
+XXIX<hi rend="sup">th</hi> of <hi>May,</hi> 1680.</p>
+            <p>By <hi>THOMAS LONG,</hi> D.D. One of the Pre<g ref="char:EOLhyphen"/>bendaries of that
+Church.</p>
+            <q>
+               <bibl>Exod. xvi. 8.</bibl> 
+               <p>Your murmurings are not againſt us, but againſt the
+Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Royſton,</hi>
+Bookſeller to His moſt, Sacred Majeſty, MDCLXXX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43568:2"/>
+            <pb facs="tcp:43568:2"/>
+            <head>TO THE Right Reverend FATHER in GOD THOMAS LORD Biſhop of
+EXETER.</head>
+            <p>THIS Sermon not reaching the ears of thoſe for whom it was
+chiefly intended, I have by your Lord<g ref="char:EOLhyphen"/>ſhips direction offered it to their
+hands, that it may be as a Glaſs not only to ſhew them their diſtorted
+faces but infectious breaths, which may fix ſome ſpots on the glaſs it
+ſelf, but ſuch as (I doubt not) will be eaſily wiped off. I have
+attempted a very difficult work, The governing of an unruly evil, for as St.
+<hi>James</hi> ſayes, <hi>every kind of beaſts and ſerpents have been
+tamed by man,</hi>
+               <note place="margin">Chap. 3.7.</note> except the Serpent that
+is within him, <hi>the Tongue, which no man can tame.</hi> It was made to be
+our Glory, but we generally turn it to our ſhame, eſpecially while
+therewith we ſeem to bleſs God, but curſe and ſpeak evil of thoſe who
+bear moſt of his Image, his Magiſtrates and Miniſters, <hi>v.</hi> 9. It
+is<pb facs="tcp:43568:3"/>
+               <hi>full of deadly poyſon,</hi> ſuch as never hurts leſs
+than three at once, the perſon ſlandered in his good name, by Calumny; the
+perſon that liſteneth to him, in his Charity, by Preju<g ref="char:EOLhyphen"/>dice and evil
+ſurmiſes; and himſelf moſt of all, by doing the Devils work in
+ſlandering his brethren, <hi>v.</hi> 8. It is a <hi>Fire,</hi> ſaith St.
+<hi>James, v.</hi> 6. and the worſt of fires, for it is, <hi>ſet on, fire
+of hell;</hi> (i.e.) the Devil the father of lyes; He is that god of Contention
+who imploys theſe Boutefeaus as <hi>Mars</hi> did his Prieſts to ſcatter
+coals of fire in the Temple and inflame the whole courſe of Nature. Other
+evils may be ſeen and avoided, but this ſhoots out arrows that fly as
+inviſibly in the day as in the dark; it is of ſuch a Verſatile and
+<hi>Proteus</hi>-like nature, that no knot can hold it, but it defies the Laws
+of God and man. <hi>Our tongues, are our own, we ought to ſpeak, who is Lord
+over us?</hi> Pſal. 12.</p>
+            <p>I ſhould not have enlarged this diſcourſe but that I
+per<g ref="char:EOLhyphen"/>ceive Calumny is become the <hi>malus genius</hi> of the Nation, which
+ſeems to be poſſeſſed not with a dumb but a talka<g ref="char:EOLhyphen"/>tive ſpirit, that
+hath turned Religion into lying and ſlan<g ref="char:EOLhyphen"/>dering. And ſuch mens
+<hi>Religion,</hi> St. <hi>James</hi> aſſures us, <hi>is vain, ch.</hi>
+1.26. 'Tis like that wherewith the Votaries of <hi>Mercury</hi> did worſhip
+him by caſting ſtones at his Image and murdering their brethren in
+<hi>Effigie.</hi>Our Apoſtle diſcovers the root of this evil to be a bitter
+zeal, or <hi>envy<g ref="char:EOLhyphen"/>ing and ſtrife in the heart:</hi>
+               <note place="margin">Chap.
+3.14.</note> the bliſtering of the tongue is cauſed by an ulcerous heart;
+and 'tis from within out of<pb facs="tcp:43568:3"/>the heart that all theſe impurities do
+proceed. Wherefore according to our Saviours method, I have endeavoured to
+cleanſe firſt that which is within, and to ſuppreſs the firſt motions
+of murmuring and diſcontent, by applying the lenitives of Right reaſon and
+Chriſtian Religion which teacheth us to be of a meek and calm, a cool and
+quiet Spirit, to do our own buſineſs, and be content with ſuch things as
+we have, and not to quarrel at the providences of God and the Adminiſtration
+of publick affairs.</p>
+            <p>But now men are grown <hi>preſumptuous, ſelf-willed, they are
+not afraid to ſpeak evil of dignities and things which they underſtand
+not,</hi> 2 Pet. 2.10. They are not afraid to inſinuate as if the King
+favoured the Plot, which hath been declared to be againſt His Majeſties
+perſon, and the Eſtabliſhed Religion. They quarrel the Succeſſion,
+and would put by the true and undoubted Heir. They inſinuate that His
+Majeſty is no friend to Parliaments, and would Rule us by an Arbitrary power.
+And as to the Church of <hi>England,</hi> they accuſe it for declining apace
+to Popery, and approving Popiſh, Socinian and Pelagian Doctrines, as
+<hi>Lewes du Moulin,</hi> and the Author of the <hi>Celeuſma;</hi> when it is
+confeſſed by foreign Divines, that it is the greateſt fence againſt
+thoſe pernicious errors. They talk as if the Church Governours were mere
+Thorns, and the in<g ref="char:EOLhyphen"/>ſtruments of the Devil, exerciſing Tyranny and
+Op<g ref="char:EOLhyphen"/>preſſion, whereas the termes of Conformity as to the<pb facs="tcp:43568:4"/>people,
+are confeſſed to be much more facile, than ever they were ſince the
+firſt Reformation. And in truth the Indulgence granted to ſuch men hath
+deſtroyed more by 1000 to one, than that which they call perſe<g ref="char:EOLhyphen"/>cution
+<hi>(i.e.)</hi> the execution of good laws. They tell the people of an utter
+impoſſibility of Conforming to the Church of <hi>England,</hi> becauſe of
+many heinous ſins in that Con<g ref="char:EOLhyphen"/>formity, (<hi>Baxter</hi>'s Plea for peace,)
+and that the Con<g ref="char:EOLhyphen"/>formiſts are generally guilty of Perjury. And theſe baits
+are diſperſed through the Nation, and greedily ſwal<g ref="char:EOLhyphen"/>lowed by the
+Credulous people who conſider not what deadly hooks are under them. And how
+great a matter a little of ſuch wild fire kindleth! Againſt theſe falſe
+ſuggeſtions and dangerous murmurings, the enſuing diſ<g ref="char:EOLhyphen"/>courſe is
+intended.</p>
+            <p>The <hi>Perſians</hi> were wont to obſerve an Anniverſary
+Feſtival which they called the <hi>death of Vices;</hi> and as an Embleme
+thereof, they deſtroyed as many Serpents as they found in the Land. I could
+not deviſe how to celebrate this happy Feſtival better than by
+endeavour<g ref="char:EOLhyphen"/>ing the mortification of thoſe murmuring and diſcon<g ref="char:EOLhyphen"/>tented vices
+which were the cauſe of our former troubles, and reduced us to ſo low a
+condition, that none but Gods own hand could deliver us, as with all
+thankfulneſs we acknowledge. But as <hi>Ezra</hi> ſays, ch. 9.13. <hi>If
+after all that is come upon us for our evil deeds, for which God hath
+puniſhed us leſs than we de<g ref="char:EOLhyphen"/>ſerve,<pb facs="tcp:43568:4"/>and hath-given us ſuch
+deliverance as this, we ſhould again break his Commandments,</hi> and neither
+fear him for his Judgments, nor obey him for his Clemency, but continue to be
+as our Fathers were, a mur<g ref="char:EOLhyphen"/>muring and rebellious generation, may not our
+<hi>God be juſtly angry with us, till he have conſumned us ſo that there
+be no remnant nor eſcaping?</hi> May we not fear that he will deal with us as
+he did with the murmuring <hi>Iſraelites,</hi> who for forty years together
+under the various and miraculous diſpenſations of mercies and judgments
+ſo grieved his Holy Spirit that he <hi>Swore in his wrath they ſhould never
+enter into his reſt?</hi> Pſal. 95. Our ſins have really brought us to
+that brink of deſtruction which our guilty fears make us to appre<g ref="char:EOLhyphen"/>hend with
+horror, and yet we ſtrive with all our might to caſt each other into that
+gulf which like an open Se<g ref="char:EOLhyphen"/>pulchre is prepared to ſwallow us all.
+<hi>Archimedes</hi> is ſaid to have invented ſuch an Engine, as if he could
+have found where to ſix it, he would have undertaken by it to remove the
+Globe of the Earth out of its place. This Engine ſome Mathematicians
+ſuppoſe to have been a Screw; which loſt invention, ſome of our Age
+have recovered. And if male-contented ſpirits be permitted to inſinuate to
+the hearts of the credulous people, their fears and jealouſies, their lyes
+and ſlanders, their murmur<g ref="char:EOLhyphen"/>ings and diſcontent, they would in a ſhort
+time remove the well Eſtabliſhed Foundations of Church and State. 
+<pb facs="tcp:43568:5"/>The God of Peace, Unity and Concord who ſtilleth the raging of
+the Sea, allay the madneſs of ſuch people. 
+<q rend="inline">"And give us all that peace which the world cannot
+give; that our hearts may be ſet to obey his Com<g ref="char:EOLhyphen"/>mandments, and alſo that
+by him we being defended from the fear of our enemies, may paſs our time in
+reſt and quietneſs, through the merits of Jeſus Chriſt our
+Saviour.</q>
+            </p>
+            <closer>
+               <signed>So daily prayeth Your Lordſhips moſt Humble and
+Obliged Servant, THO. LONG.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:43568:5"/>
+            <head>A SERMON AGAINST Murmuring. 
+<q>
+                  <bibl>Eccleſiaſtes vii. 10.</bibl> 
+                  <p>Say not thou, what is the cauſe that the for<g ref="char:EOLhyphen"/>mer days were
+better than theſe? For thou doſt not inquire wiſely concerning
+this.</p>
+               </q> 
+            </head>
+            <p>THERE is nothing wanting to complete the Solemnity of this Day, or
+indeed the happineſs of the Whole Nation, beſides Thankful and Obedient
+hearts to God and the King, for the many incomparable bleſſings which under
+them we now enjoy. That character which the Royal Prophet gives,
+<hi>Pſal.</hi> 144. of a <hi>bleſſed people,</hi> agrees well with us:
+for firſt, (which is the foundation of all) we have the <hi>Lord to be our
+God,</hi> v. laſt. And our God hath <hi>given Salvation to our King,
+ver.</hi> 10. He hath <hi>delivered</hi> David <hi>his Servant from the peril
+of the Sword.</hi> And again, he hath <hi>delivered<pb n="2" facs="tcp:43568:6"/>him from
+the hand of ſtrange children, whoſe mouth ſpeaketh of vanity, and their
+right hand is a right hand of falſhood.</hi> And now <hi>our Sons grow up as
+young plants,</hi> and <hi>our daugh<g ref="char:EOLhyphen"/>ters are as the poliſhed corners of the
+Temple, our Garners are full, affording all manner of ſtore; our Sheep bring
+forth thouſands and ten thouſands in our ſtreets. There is no decay</hi>
+(of Trade) <hi>no leading into Captivity.</hi> Only we cannot ſay, <hi>there
+is no complaining in our ſtreets.</hi> This ſin lyeth as an indeleble
+reproach upon our Nation. We <hi>Engliſh</hi>-men never know when we are
+well. But what ſhall we ſay? when the moſt proſperous raign of
+Peaceable <hi>Solomon</hi> was diſturbed with the Murmurings of
+Male-contents, it is no wonder if it be ſo with us. Every ear is filled with
+the hiſſing of ſuch Serpents, and the noiſe which they make among the
+Thickets of the people; but it will require the wiſdom of <hi>Solomon</hi> to
+charm them; and he did it ſo effectually, that though they did ſome time
+hiſs at him, yet they could never hurt him, for there was peace all the days
+of <hi>Solomon.</hi> And that it may be ſo with us, I ſhall follow the
+method preſcribed in the Text, where, 
+<list>
+                  <item>Firſt, We have a Royal Prohibition, <hi>Ne dicas, ſay
+not thou.</hi>
+                  </item>
+                  <item>Secondly, We have the ſin deſcribed againſt which the
+Prohibition lyeth, which by conſent of the beſt Ex<g ref="char:EOLhyphen"/>poſitors is a
+murmuring and repining at the pre<g ref="char:EOLhyphen"/>ſent Diſpenſations of God, and the
+Adminiſtration of Publick affairs by our Governors.</item>
+                  <item>Thirdly, We have the ſecret and ſubtile pretences by
+which it inſinuates it ſelf to the hearts of the people, <hi>What is the
+cauſe?</hi> and a falſe and odious compariſon be<g ref="char:EOLhyphen"/>tween the former and the
+preſent times, <hi>The former times were better than theſe.</hi>
+                  </item>
+                  <item>
+                     <pb n="3" facs="tcp:43568:6"/>And Fourthly, The folly and impiety of
+ſuch ſecret and miſchievous Arts, <hi>Thou doſt not inquire wiſely
+con<g ref="char:EOLhyphen"/>cerning this.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, Of the Royal Prohibition, <hi>Say not thou,</hi> that is,
+Though you queſtion the King's Prerogative, yet quar<g ref="char:EOLhyphen"/>rel not with the
+Prerogative of God by whom Kings Reign and Princes decree judgment; as if he
+did not ſet fit Governours over us, or did not ſtill retain a power over
+them, who hath the hearts of all Kings in his hands, and diſpoſeth of them
+to his own wiſe and gracious ends either for the puniſhment or proſperity
+of a Nation: If the former days were better, it was God's will to have them
+ſo; and the preſent are not ſo bad, but we by our ingratitude deſerve
+to have them worſe: If we will not ſubmit to <hi>Solomons</hi> rod, God may
+ſend a <hi>Rehoboam</hi> to chaſtiſe us with Scorpions. Know therefore
+that this ſin doth not terminate in the perſons or government of our
+Princes, but invades the Throne of God; as <hi>Moſes</hi> told the
+<hi>Iſraelites, your murmuring is not againſt us, but againſt the
+Lord.</hi>
+               <note place="margin">
+                  <hi>Ex.</hi> 16.8.</note> And therefore
+<hi>Solomon</hi> ſtrikes a blow at the root of this ſin, the <hi>ne
+dicas</hi> is <hi>ne dicas corde,</hi> ad<g ref="char:EOLhyphen"/>mit not a diſcontented thought: for
+as where the Ser<g ref="char:EOLhyphen"/>pent gets in his head, he eaſily skrews in his whole bo<g ref="char:EOLhyphen"/>dy,
+ſo where the heart is ſowred with a little of this Leaven, it ferments and
+envenometh the whole man, infects the neighbourhood and troubleth the whole
+Na<g ref="char:EOLhyphen"/>tion. <hi>Solomon</hi> expounds the <hi>ne dicas</hi> in the Text, by <hi>ne
+maledicas, ch.</hi> 10.20. for to murmur is <hi>ſecretò
+maledicere;</hi> and we are not to ſpeak evil of the Rulers of the people
+<hi>ne in Conſcientiâ,</hi> not under a pretence of Conſcience;
+becauſe we muſt ſubmit for Conſcience-ſake; we may not do it <hi>in
+ſcientia,</hi> not ſpeak the evil we know by them. It is not fit to ſay
+to a King <hi>Thou art wicked.</hi>
+               <note place="margin">
+                  <hi>Job</hi>
+34.18.</note> Much leſs<pb n="4" facs="tcp:43568:7"/>maiſt thou do it <hi>in
+conclavibus</hi> among thy Confidents, in private meetings. It is probably
+conjectured that <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> had reſpect to <hi>Jeroboam</hi> and his
+confederates, 1 <hi>Kings.</hi> 12.26. <hi>Dixit corde, He ſaid in his heart,
+now ſhall the kingdom return to the houſe of David.</hi> He had learnt by
+<hi>Shimei</hi>'s puniſhment not to rail or conſpire openly againſt the
+King, but contrived ſecretly; for though it be ſaid that he lift up his
+hand againſt the King, it was not in open rebellion, for there was no war in
+<hi>Solomon</hi>'s days; but the phraſe ſignifyeth, <hi>juramento ſe
+obligavit,</hi> he and his confederates entred into a Covenant againſt the
+King, the miſchievous effects whereof though they were ſup<g ref="char:EOLhyphen"/>preſt by the
+wiſdom of <hi>Solomon</hi> all his days, yet they brake out in the days of
+his Succeſſor, and they com<g ref="char:EOLhyphen"/>plain even of <hi>Solomon</hi> himſelf,
+<hi>Thy Father made our yoke grievous,</hi> 1 Kings 12.4. <hi>Now therefore
+make thou the grievous ſervice of thy father, and his heavy yoke which he put
+upon us, lighter;</hi> And yet we read not of any con<g ref="char:EOLhyphen"/>tribution except for the
+building of Gods houſe, or the neceſſary ſupport of his own, to both
+which the people for the moſt part offered willingly. Nevertheleſs this
+gra<g ref="char:EOLhyphen"/>cious and peaceable Prince had many enemies who hated him, as
+<hi>Davids</hi> enemies did without a cauſe.<note place="margin">1
+<hi>Kings.</hi> 2.15.</note> They ac<g ref="char:EOLhyphen"/>knowledged that God as well as his father
+deſigned him for the Crown, and ſetled it on his head againſt all
+oppo<g ref="char:EOLhyphen"/>ſition, for <hi>Adonijah</hi> uſurped the kingdom, <hi>Abiathar,
+Joab</hi> and <hi>Shimei</hi> abetted the Uſurpation, and were all defeated.
+God appearing for <hi>Solomon</hi> not once or twice for the pre<g ref="char:EOLhyphen"/>ſervation of
+him from ſuch enemies, was a daily miracle. But <hi>Jeroboam, Solomons</hi>
+ſervant whom he had preferred and greatly honoured, was his moſt dangerous
+and im<g ref="char:EOLhyphen"/>placable enemy who filled the peoples hearts with fears and
+jealouſies, and their mouths with complaints of his Government; and very
+induſtrious he was to find out<pb n="5" facs="tcp:43568:7"/>ſome real cauſe for his
+complaints, but finding none, he could only keep the people alarmed with the
+ſeditious Queries in the Text, <hi>what is the cauſe?</hi>
+            </p>
+            <p>This being the Sin forbidden in the Text I ſhall aggra<g ref="char:EOLhyphen"/>vate it,
+1. From the Cauſes, 2. From the Effects of it.</p>
+            <p n="1">1. The <hi>Cauſe</hi> in general is the <hi>luſts of
+men.</hi> 
+               <note place="margin">
+                  <hi>Ex vitio malignita<g ref="char:EOLhyphen"/>tis humanae vetera
+lau<g ref="char:EOLhyphen"/>dantur, praeſentia faſtidio habentur.</hi> Tacitus.</note> So <hi>S.
+Jude</hi> deſcribes <hi>Murmurers</hi> to be ſuch as <hi>walk after their
+own luſts, ver.</hi> 16. For when men are reſolved to enjoy their luſts,
+they will indure no reſtraint from God: or man, be their laws never ſo
+eaſie or equal: every one of them hath the mind of an Emperor, to live above
+the Laws themſelves, and to make their will a Law to others. And hence it is
+that they would heap up Governours to themſelves as they heap up Teachers, or
+rather uſurp both thoſe Offices to themſelves, that it might be with them
+as when there was no King in <hi>Iſrael,</hi> every one might do what
+ſeemeth good in his own eyes. <hi>S. Jude v.</hi> 16. calls them
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, complainers of their pre<g ref="char:EOLhyphen"/>ſent
+condition, as too narrow and uneaſie for their great Souls, which they think
+fit and able Intelligences to in<g ref="char:EOLhyphen"/>form the higheſt orbs of Magiſtracy and
+Miniſtry.</p>
+            <p n="2">2. <hi>Ariſtotle</hi> ſays it proceeds from ſelf-love,
+and a fond conceit of our own parts and merits, for no man thinks too highly of
+himſelf but he thinks too meanly of others. <hi>I am not as other men,</hi>
+ſays the Phariſee, <hi>nor as this Pub<g ref="char:EOLhyphen"/>lican.</hi> Some reſpect ſuch a
+perſon is content to allow the Worthies of former ages, who are removed out
+of his his way, and cannot rival him in his deſigns. 
+<q> 
+                  <l>Sed niſi quae terris ſemota ſuiſque</l> 
+                  <l>Temporibus defuncta videt, faſtidit &amp; odit.</l>
+               </q> If
+virtue it ſelf were incarnate among ſuch, they would look on her with an
+evil eye. The <hi>Phariſees</hi> ſeemed much affected with the Sufferings
+of the ancient Prophets, when at the ſame time they perſecuted the Son of
+God<pb n="6" facs="tcp:43568:8"/>by whom they were all inſpired. So the Poetaſters in
+<hi>Virgils</hi> age, publickly read the harſh Poems of <hi>Ennius,</hi>
+de<g ref="char:EOLhyphen"/>ſpiſing him whom all ages ſince have deſervedly admired. And on this
+account <hi>Jeroboam</hi> and the Malecontents in his days magnified
+themſelves as if they were thoſe Li<g ref="char:EOLhyphen"/>lies of the field, to one of which
+<hi>Solomon</hi> in all his glory was not to be compared. There is ſcarce a
+Potſherd though newly taken from the earth, though empty and crazy, but if it
+be not preſently gilded over and made a veſſel of honour, is ready to
+expoſtulate with the Potter, why haſt thou made me thus?</p>
+            <p n="3">3. This humor proceeds not only from a mans ſup<g ref="char:EOLhyphen"/>poſed
+worth, but from his real weakneſs. It is <hi>impoten<g ref="char:EOLhyphen"/>tia
+ſpiritûs,</hi> the want of power to govern our own ſpirits that makes
+us impatient of the government of others. The ſhalloweſt rivers run with
+the greateſt noiſe. And in all nature the weakeſt things are moſt
+querulous and un<g ref="char:EOLhyphen"/>governable. Children will be froward, as well full as
+faſting; the weakneſs of their reaſon and judgment makes their deſires
+and paſſions ſo extravagant and impe<g ref="char:EOLhyphen"/>tuous. The Olive and the Vine can
+content themſelves with their own fatneſs, and the good man is ſatisfied
+from himſelf. As <hi>Cincinnatus</hi> and the worthies of old <hi>Rome,</hi>
+who could command as Generals in the Camp, and adviſe as Oracles in the
+Senate; and when their Countrey was ſafe, return again to their little
+Cottages and the Plough. It is the ſpiny bramble that is alway aſpiring and
+in perpetual motion until it kindle a fire to conſume it ſelf and the
+Cedars in <hi>Lebanon, Judges</hi> 9.15.</p>
+            <p n="4">4. Another ingredient is guiltineſs, which always makes
+men jealous and ſuſpicious, eſpecially of ſuch as are in Authority. And
+as guilt cauſeth fear, ſo fear pro<g ref="char:EOLhyphen"/>duceth hatred of thoſe whom they have
+offended <hi>(i.e.)</hi> the Legiſlators, whom not being able to oppoſe by
+force,<pb n="7" facs="tcp:43568:8"/>they ſeek to undermine by fraud and ſecret
+practices: As ſome malefactors that are purſued joyn themſelves to the
+purſuers, and by falſe ſuggeſtions and ſubtle inſinua<g ref="char:EOLhyphen"/>tions raiſe
+ſuſpicion on others to clear themſelves. The moſt guilty are moſt
+clamorous and complain firſt, and feign themſelves moſt diligent
+againſt the evils of the times, which they themſelves have cauſed and
+continued. What is the Cauſe, ſay they, of the preſent troubles? when
+they and their fathers houſe are thoſe that trouble our <hi>Iſra<g ref="char:EOLhyphen"/>el.</hi>
+Which brings us to a ſecond Aggravation of this Sin:</p>
+            <p n="2">2. The miſchievous <hi>Effects</hi> of it; for 1. as
+<hi>S. Paul</hi> tells us, 2 <hi>Tim.</hi> 3.1. when men <hi>are lovers of
+themſelves, cove<g ref="char:EOLhyphen"/>tous, boaſters, proud, diſobedient to parents,
+unthankful,</hi> &amp;c. then <hi>perillous times ſhall come.</hi> Nothing
+doth more por<g ref="char:EOLhyphen"/>tend the diſpleaſure of God againſt a Nation, than when he
+permits popular clamours and tumults to invade the publick authority, and the
+contumacy of thoſe that break the laws, to outbrave the courage of thoſe
+that ſhould execute them.</p>
+            <p n="2">2. <hi>St. Paul</hi> tells us of another effect,
+<hi>Phil.</hi> 2.14. where he joyns murmurings and diſputings. Such men are
+ever more ready to cenſure and controll than to obey the laws of their
+Superiours. They are ſtarting of ſcruples and queries not ſo much to
+ſatisfie themſelves, being reſolved never to be ſatisfied, as to
+diſtract others: And as <hi>Pliny</hi> obſerves of the Scorpion, that he
+doth <hi>(meditari vulne<g ref="char:EOLhyphen"/>ra)</hi> dart forth his ſting on every motion of his
+body, leſt any occaſion of doing miſchief ſhould be omitted; <hi>Et
+ſi non aliqua nocuiſſet mortuus eſſet:</hi> In all companies, upon
+every occaſion ſome men ſhew their diſcontent by ſowre looks and
+ſullen behaviours, their envyous grudg<g ref="char:EOLhyphen"/>ings and vindictive groans. Their
+Faſting when they ſhould feaſt, and rejoycing when they ſhould mourn,
+Condemning the Laws which they ſhould obey, do ma<g ref="char:EOLhyphen"/>nifeſt<pb n="8" facs="tcp:43568:9"/>that the ſpirit by which they live and breath is a ſpirit of
+Contradiction. 
+<q rend="inline">"The rude people <hi>(ſays the Royal Martyr in
+his ch. of Tumults)</hi> are taught firſt to Petition, then to Proteſt,
+then to Dictate, then to Command.</q> This was the method uſed in 43, as it
+is left on record in the Preface to the Covenant.—
+<q rend="inline">"After other means of Supplications,
+Remonſtrances, Pro<g ref="char:EOLhyphen"/>teſtations, <hi>&amp;c.</hi> Now at laſt we enter into
+a Solemn League and Covenant.</q> And by this method the late Tumults in
+<hi>Scotland</hi> commenced into a Rebellion. They ſow the Seeds of Sedition
+in private meetings, thence iſſue Petitions, Remonſtrances, and at laſt
+the Conven<g ref="char:EOLhyphen"/>ticlers appear in armed companies and declare for the Covenant
+againſt the Oath of Supremacy, and the Kings uſurped power in
+Eccleſiaſtical affairs, and con<g ref="char:EOLhyphen"/>demn the obſervation of the 29th of
+<hi>May</hi> as Superſtiti<g ref="char:EOLhyphen"/>ous. And too many in <hi>England</hi> were on
+Tiptoe to have danced after this Scotch Pipe. And ſo we come,</p>
+            <p n="3">3. To the <hi>laſt</hi> effect of theſe murmurings,
+which <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> hath obſerved, <hi>numb.</hi> 17.10. where he
+expreſly calls them <hi>Rebels.</hi> And we all know that murmurings were
+thoſe winds which blew up and ſcattered thoſe coals of jealouſie which
+kept the whole Nation in a flame twenty years together, and now threaten a new
+Conflagration. For as the Learned <hi>Verulam</hi> obſerves, there is only
+this difference between ſeditious murmurings and ſeditious tumults, that
+the one is the Brother and the other the Siſter; Tumults and Seditions are
+more maſculine, but Murmurings as malicious. Which the Ancients have
+in<g ref="char:EOLhyphen"/>geniouſly deſcribed in the Fable of the Giants which the earth brought
+forth, who for warring againſt the gods were ſmitten with Thunderbolts, and
+to revenge their death, the Earth laboured again, and brought forth Fame. The
+Moral is this: The Common people are that<pb n="9" facs="tcp:43568:9"/>Earth who oppoſing
+their Governours were ſubdued by force of Arms; but to be avenged of them
+they brought forth Fame, <hi>(i.e.)</hi> Seditious reports and ſlanders,
+which had ſuch ſecret motions and ſubtle evaſions that the gods
+themſelves <hi>(i.e.)</hi> their Governors could not ſilence them. Which is
+the third thing propoſed, the ſubtle pretences by which this luſt
+inſinuates it ſelf, <hi>what is the cauſe,</hi> &amp;c.</p>
+            <p>As if they had ſaid: The preſent times are much dege<g ref="char:EOLhyphen"/>nerated
+from the former, and are ſtill growing worſe. Atheiſin is increaſed and
+Godlineſs diſcouraged, vile per<g ref="char:EOLhyphen"/>ſons are exalted and ſuch as are truly
+honourable deſpiſed, and there are few or none that are valiant for the
+truth, or ſhew their zeal for the Lord of Hoſts. In former times men were
+more active for Reformation of abuſes both in Church and State, there wanted
+not ſome that would tell King <hi>David</hi> his faults to his face, and
+accuſe him for a man of bloud; and if he ſeemed not to hear the Curſes of
+<hi>Shimei,</hi> there was a <hi>Sheba</hi> to blow a Trumpet and pro<g ref="char:EOLhyphen"/>claim,
+<hi>Every man to his tents, O Iſrael.</hi>
+               <note place="margin">1 <hi>Kings</hi>
+12.16.</note> Nay there was an <hi>Achitophel</hi> whoſe Counſel was
+eſteemed as an Oracle of God, that prevailed with <hi>Abſalom</hi> to
+undertake to re<g ref="char:EOLhyphen"/>dreſs the Grievances of the people,<note place="margin">2
+<hi>Sam.</hi> 16.15.</note> and theſe made their party ſtrong enough to
+drive the King out of all his ſtrong holds, and chaſe him not only from one
+mountain to ano<g ref="char:EOLhyphen"/>ther, but from one Kingdom to another, and at laſt to
+<hi>bind the King himſelfe in chains, and his Nobles in fetters of Iron.</hi>
+And this honour had thoſe ancient Saints.</p>
+            <p>And as for Church Reformation we have the Ex<g ref="char:EOLhyphen"/>amples of thoſe
+Godly zealots that publickly proteſted againſt thoſe Superſtitious
+vanities and heatheniſh cu<g ref="char:EOLhyphen"/>ſtoms which <hi>David</hi> would have joyned to
+the Worſhip of God, ſuch as his bowing and dancing before the Ark, his
+appointing ſeveral Orders of Prieſts and Levites with<pb n="10" facs="tcp:43568:10"/>Vocal and Inſtrumenral muſick for the Service of the Temple, who
+were to praiſe God with the Pſaltery and Harp, and <hi>to ſtand every
+morning and evening to praiſe God, for his mercy endureth for every,</hi> 1
+<hi>Chron.</hi> 23.30. 
+<note place="margin">1 <hi>Kings</hi> 12.28.</note> And as for the
+coſtly ornaments, the veſſels of Gold and Silver, the Painted and Carved
+works, there were thoſe that brake them down with Axes and Hammers, and took
+to themſelves the Houſes of God in poſſeſſion, yea they propagated
+a more ſimple and purer Worſhip, ſuch as that of <hi>Jeroboam</hi> who
+brought their houſhold-gods to their doors, and ſet up Calves at
+<hi>Dan</hi> and <hi>Bethel,</hi> making Prieſts of the meaneſt of the
+people, who were conten<g ref="char:EOLhyphen"/>ted with the free-will Offerings of their Brethren.</p>
+            <p>But now though this liberty of Conſcience be denyed us, and King
+<hi>Solomon</hi> hath eſtabliſhed by a Law all that <hi>David</hi>
+intended; though he have built and beautified the Temple, and obligeth us to
+that publick place of Worſhip, and enjoyns us to Worſhip and fall down and
+kneel as if God were there preſent:<note place="margin">
+                  <hi>Pſ.</hi>
+95.6.</note> Though he requires an Uniformity to all thoſe Forms of Prayer
+and Thankſ<g ref="char:EOLhyphen"/>giving which were compoſed by <hi>David</hi> and
+<hi>Aſaph,</hi> 2 <hi>Chron.</hi> 29.30. and to joyn with <hi>the Levites
+which were the Singers, being arayed in white linnen, having Cymbals,
+Pſalteries and Harps, to make one ſound in Praiſing and Thanking the
+Lord,</hi> 2 <hi>Chron.</hi> 5.12. Yea though <hi>Solomon</hi> do ſtint the
+Spirit of prayer in Gods Miniſters, and for<g ref="char:EOLhyphen"/>bids them to be <hi>raſh with
+their mouths,</hi>
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 5.2.</note> and <hi>to
+let their tongues be haſty to utter any thing before the Lord,</hi> as if our
+extemporary prayers were the Sacrifices of fools: yet may we not complain or
+ſo much as Petition againſt theſe grievous impoſitions. Nay what is yet
+worſe, we are required to renounce the Vow at <hi>Hebron,</hi> and the Solemn
+League which <hi>Jeroboam</hi> and his godly party took with hands lifted up to
+heaven, and inſtead of the Vow<pb n="11" facs="tcp:43568:10"/>to God, we are told we
+muſt keep the Kings command and that <hi>in regard of the oath of God,
+ch.</hi> 8.2. And we muſt alſo declare that <hi>againſt the King there is
+no riſing up,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 30.3.</note> upon any
+pretence whatſoever, nor againſt ſuch as are commiſſioned by him; but
+<hi>if the ſpirit of</hi> ſubordi<g ref="char:EOLhyphen"/>nate <hi>Rulers riſe up againſt us,
+we may not go out of our places,</hi>
+               <note place="margin">
+                  <hi>Eccl.</hi>
+10.4.</note> nor ſtir beyond our private callings and capaci<g ref="char:EOLhyphen"/>ties, but
+<hi>fear God and the King, and not meddle with them that are given to
+change,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 24.21</note> though it be for a
+thorow Re<g ref="char:EOLhyphen"/>formation. And in a word, <hi>Solomon</hi> would put ſuch a gag in
+our mouths that we may not ſo much as demand, <hi>What is the cauſe that
+the former days were better than theſe?</hi>
+            </p>
+            <p>But I have ſaved theſe men the labour in ſumming up all the
+Cauſes of the pretended evils of their-times; and how frivolous they are,
+appears evidently by this, that <hi>David</hi> appointed nothing for the
+publick Worſhip of God but what he graciouſly accepted. And all that
+<hi>Solomon</hi> injoyned was immediately directed by the Spirit of God, and
+ſtands recorded in the Holy Scriptures as ge<g ref="char:EOLhyphen"/>neral rules to be obſerved in
+the publick Worſhip of God to all ſucceeding ages.</p>
+            <p>
+               <hi>Solomon</hi> well knew that the evils in his days were
+cauſed by the Complaints of thoſe malicious men who were enemies to his
+Fathers Government as well as his own, that they intended to bring his Perſon
+and Govern<g ref="char:EOLhyphen"/>ment into contempt, and minded not the redreſs of publick
+grievances as much as of their private fortunes: and if the times were evil,
+they took a direct courſe to make them worſe, by endeavouring to overthrow
+all thoſe Conſtitutions which both <hi>Solomon</hi> and his father
+<hi>Da<g ref="char:EOLhyphen"/>vid</hi> had well eſtabliſhed. He knew that if theſe
+Male-con<g ref="char:EOLhyphen"/>tents were permitted to ſow theſe ſeeds of Rebellion, they would
+like the Dragons teeth ſowed by <hi>Gadmus</hi>
+               <pb n="12" facs="tcp:43568:11"/>ſpring
+up into Armed men that would deſtroy their Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>God forbid that we ſhould be inſenſible of our own ſins,
+or of the tokens of Gods wrath that are upon us. That our Religion ſhould be
+as <hi>Sion</hi> of old whom no man cared for, or that we ſhould ſuffer our
+ſelves to be led into Captivity as we were brought out of it, as men in a
+dream. It is our Intereſt as well as our duty to mourn for other mens ſins
+as well as our own, but we ſhould do that in ſecret, and take heed that
+under a pretence of reproving their ſins we do not pour out reproach on their
+perſons and government, and by ſuch art ſo ſpread abroad their
+infirmities as to make a cloak for our own iniqui<g ref="char:EOLhyphen"/>ties. We may alſo be
+inſtrumental in a reformation, but we ſhould begin it at the right end, our
+own wick<g ref="char:EOLhyphen"/>ed hearts and lives, and not at the Heads of our Su<g ref="char:EOLhyphen"/>periors; to
+complain that the days are evil, with a de<g ref="char:EOLhyphen"/>ſign by ſuch complaints to make
+them worſe; to ſearch after remote and ſecret cauſes, and overlook
+thoſe that are ſo near and obvious in our own boſoms, and with the Harlot
+in <hi>Solomon</hi> having overlayed her own child to accuſe a tender
+mother,<note place="margin">1 <hi>Kings</hi> 3.20.</note> and ſeek to deprive
+her of her living child, is a ſubtle deſign, but ſuch as could not
+ſtand the Teſt of <hi>Solomon;</hi> and a greater than <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>
+will judge ſuch men.</p>
+            <p>It was obſerved by the Royal Martyr, that whoever intended to
+bring forth confuſion in a Church or State, have uſed the Midwifry of
+complaints and tumults. By this Artifice <hi>Abſalom</hi> ſtole the hearts
+of the people from his Father <hi>David, See thy cauſe is right, but there is
+no man deputed of the King to do thee juſtice,</hi> 2 <hi>Sam.</hi> 13.3.
+when the deſign was, <hi>O that I were judge in Iſrael.</hi> And to
+facilitate his deſign he remembreth his Vow at <hi>He<g ref="char:EOLhyphen"/>bron,</hi> that under
+pretence of Piety to God he might<pb n="13" facs="tcp:43568:11"/>ſtrengthen his party and
+the more impunely caſt off his obedience to his Father. By the like art
+<hi>Jeroboam</hi> had ſtoln the hearts of <hi>Solomon</hi>'s Subjects, and
+made a great part of <hi>Iſrael</hi> to ſin with him. For though the
+founda<g ref="char:EOLhyphen"/>tions of <hi>Solomons</hi> Government were ſuch as might have made all
+<hi>Iſrael</hi> as firm as Mount <hi>Sion</hi> which could not be moved,
+though in his days there was a confluence of all thoſe bleſſings whereof
+one or two might have made another Nation happy; yet by their whining
+murmur<g ref="char:EOLhyphen"/>ings and reſtleſs complaints of heavy yoaks, and ap<g ref="char:EOLhyphen"/>proaching
+Idolatry, of the hainous ſins and imminent dangers of the Nation, they did
+<hi>(tantum non)</hi> fail but a little of ſubverting the whole frame of the
+beſt eſta<g ref="char:EOLhyphen"/>bliſhed Government in the world.</p>
+            <p>But <hi>Solomon</hi> had a jealous ear which heard all theſe
+things, and was aſſiſted with more than humane pru<g ref="char:EOLhyphen"/>dence and power to
+ſuppreſs them. He cruſheth this Cockatrice in the Egg, and diſcovers
+the folly and im<g ref="char:EOLhyphen"/>piety of it. <hi>Thou doſt not inquire wiſely,
+&amp;c.</hi> which brings us to the laſt part of the Text, <hi>non ex
+ſapientiâ.</hi> Witty men there might be among ſuch <hi>(ingenioſi
+in malum publi<g ref="char:EOLhyphen"/>cum)</hi> but they were neither wiſe nor good men in the
+ſence of <hi>Solomon.</hi> For whether by wiſdom we underſtand moral
+prudence, or (as moſt Expoſitors) true piety and the fear of God, they who
+thus cauſleſly murmured againſt the King had neither, they acted both
+againſt Reaſon and Religion.</p>
+            <p>Firſt againſt <hi>Reaſon.</hi> For what is more irrational
+than ſolicitouſly to enquire after the cauſes of thoſe things that are
+not? They might as well ask why the Sun had loſt its light, or the
+foundations of the earth were removed, which were as true as that the former
+days were better than thoſe of <hi>Solomon;</hi> which will appear by a
+ſhort view of the Church and State of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> in the days of
+<hi>Solomon.</hi> For 1. <hi>In riches and wiſdom</hi>
+               <pb n="14" facs="tcp:43568:12"/>Solomon <hi>exceeded all the Kings of the earth that were be<g ref="char:EOLhyphen"/>fore
+him,</hi> 1 <hi>Kings</hi> 10.27. The Veſſels and Utenſils of Gods
+Houſe as well as the Kings were of beaten Gold, <hi>for Gold was as common as
+ſilver, and ſilver as the ſtones in the ſtreets of Jeruſalem,</hi> 1
+<hi>Kings</hi> 9.28. And his Royal Navy commanded the Trade of the world, and
+kept his Exchequer always full and running over, bringing home 666 Talents of
+Gold at a time, beſides the rich merchandize from <hi>Tyre</hi> and
+<hi>Egypt.</hi> There was alſo a general peace to injoy this great plenty,
+for <hi>Solomon</hi> was in this a Type of Chriſt, there was neither
+adverſary nor evil occurrence, 1 <hi>Kings</hi> 4. but all <hi>Judah</hi> and
+<hi>Iſrael</hi> which made a prey of each other in the days of
+<hi>David,</hi> were united and <hi>dwelt ſafely every man under his own
+Vine, and under his own fig-tree from</hi> Dan <hi>to</hi> Beerſheba, there
+was a general and perpetual peace all the dayes of <hi>Solomon, ver.</hi> 25.
+Which peace was the more admirable becauſe that though <hi>Adonijah</hi> had
+uſurped the Kingdom and ſtrengthned himſelf by the heads of divers
+factions, <hi>Joab</hi> among the ſouldiers, and <hi>Abiathar</hi> among the
+Prieſts, and <hi>Shimei</hi> chief of the <hi>Benjamites;</hi> yet was he
+ſetled on his Fathers Throne without ſhedding of bloud or any oppoſition.
+His League alſo with <hi>Hiram</hi> deſerves a re<g ref="char:EOLhyphen"/>mark, being a friend to
+the True Religion, and the moſt potent and skilful in Sea-affairs. But what
+is eſpe<g ref="char:EOLhyphen"/>cially to be noted is, that all theſe bleſſings were con<g ref="char:EOLhyphen"/>firmed
+to him by a promiſe from God for his father <hi>Davids</hi> ſake.<note place="margin">1 <hi>Kings</hi> 11.12.</note>
+            </p>
+            <p n="2">2. His clemency did adorn his peace, for he pardon<g ref="char:EOLhyphen"/>ed ſuch
+offenders as could obtain pardon from themſelves: <hi>Adonijah</hi> that had
+uſurped the Kingdom, and <hi>Joab</hi> that had barbarouſly ſlain
+<hi>Abner</hi> and <hi>Amaſa</hi> Captains of his Fathers Hoſt, and
+<hi>Abiathar</hi> a revolted Prieſt that had ſtrengthned the hands of the
+Uſurper, and <hi>Shimei</hi> alſo<pb n="15" facs="tcp:43568:12"/>who having got the
+upper ground of <hi>David</hi> ſpit his ve<g ref="char:EOLhyphen"/>nome in his Royal face, reviling
+him <hi>(maledictione forti)</hi> with all the virulence he could, 2
+<hi>Sam.</hi> 16.7.</p>
+            <p n="3">Yet 3. His clemency was ſeaſoned with juſtice which
+was inflicted on incorrigible offenders without reſpect of perſons, high
+and low, natives and ſtrangers, parti<g ref="char:EOLhyphen"/>cularly on <hi>Shimei</hi> for that
+horrid fact on the perſon of his father whom he commanded to be ſlain by
+the hand of <hi>Benaiah,</hi> and the kingdom was thereby eſtabliſhed in
+the hand of <hi>Solomon.</hi>
+            </p>
+            <p n="4">4. His Maximes of Government were of infallible and eternal
+verity, ſuch as theſe: <hi>Mercy and truth pre<g ref="char:EOLhyphen"/>ſerve the King, and by
+righteouſneſs ſhall his throne be eſta<g ref="char:EOLhyphen"/>bliſhed.</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 20.28</note> 
+               <hi>It is the honour of a King to
+ſearch out a matter.</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 25.2.</note> 
+               <hi>In
+the multitude of Counſellors there is peace: But where no counſel is, the
+people fall.</hi>
+               <note place="margin">11.14.</note> 
+               <hi>Righteouſneſs
+exalteth a Nation, but ſin is a reproach to any people, Pro.</hi> 14.34.</p>
+            <p>And his men were ſuited to his Maxims, men of gravity and
+experience, of prudence, piety and mode<g ref="char:EOLhyphen"/>ration, ſuch as would have ſecured
+the Crown to <hi>Reho<g ref="char:EOLhyphen"/>boam,</hi> had he not rejected them and inclined to
+greener heads that were brought up with him. All theſe bleſſings he
+diſpenſed with great wiſdom, having a heart as capa<g ref="char:EOLhyphen"/>cious as the ſand
+on the Sea-ſhore. Which wiſdom he acquired partly by giving his heart to
+it, but it was perfected by the gift of God. This made his face to ſhine ſo
+as he attracted the admiration of all the Kings of the Earth, and the Queen of
+the South came from far to be an Ear witneſs of it, and envyed the
+happineſs of his Subjects. This wiſdom he demonſtrated to be better than
+ſtrength by ſuppreſſing ſtrife and contention in the firſt riſe
+of it. He carefully obſerved all the motions of the people, and neglected not
+in times of peace to make proviſion for war. He had many fortified Cities,
+and<pb n="16" facs="tcp:43568:13"/>40000 ſtalls for the horſes of his Chariots, and
+40000 horſe, and his people were as the ſand as for number.
+Notwithſtanding all this preparation of Chariots and horſes
+<hi>Solomon</hi> knew that Salvation was of the Lord. And that he might obtain
+the Lord of hoſts to fight for him, he eſtabliſhed the publick Worſhip
+of God through<g ref="char:EOLhyphen"/>out all his Dominions. This made the Crown on <hi>Solo<g ref="char:EOLhyphen"/>mons</hi>
+head more ſplendid than that wherewith his mo<g ref="char:EOLhyphen"/>ther crowned him in the day of
+his Eſpouſals. How could he ſtrengthen himſelf more than by making the
+building of Gods houſe the foundation of his own? Now whereas the Ark of God
+in the days of <hi>David</hi> was in a wandring condition, ſometime drawn
+with Oxen and ſometime with Kine, <hi>Solomon</hi> built it a houſe, and
+directed the uſe of that houſe to be <hi>a houſe of Prayer,</hi> which
+God ſo graciouſly accepted that he promiſed, 2 <hi>Chron.</hi> 7.14,15.
+That <hi>his eyes ſhould be open and his ears attent unto the prayers that
+were made in that place.</hi> How irrational was it then for any to complain
+that the former days were better than theſe? A King thus ſetled on his
+Throne might ſcatter away all evil with his eye, and turn their low
+murmurings into loud Acclamations: but what ſhall we ſay? the warm Sun
+breeds theſe Vipers and animates them as well as the fire of Contention.
+Theſe murmurings abounded not only in the wilderneſs, but in
+<hi>Canaan,</hi> a land that flowed with milk and honey, which they turned to
+gall and bitterneſs by their diſcon<g ref="char:EOLhyphen"/>tent; <hi>they deſpiſed that holy
+land.</hi> Yea this ſin prevailed againſt our firſt Parents in
+Paradiſe, and tempted them by forbidden means to aſpire to greater
+happineſs and more knowledge than God thought fit for them, and thereby
+turned Paradiſe it ſelf into a Wilderneſs. Yea this reſtleſs luſt
+mounted up into heaven, and made ſome of the Angels of God Apoſtates and
+Devils. And no<pb n="17" facs="tcp:43568:13"/>wonder then that it poſſeſſeth
+thoſe who only by a flaſh of zeal transform themſelves into Angels of
+light, and makes them act as incarnate Devils. It was a greater wonder how
+<hi>Solomon</hi> could ſhake off theſe Vipers that ſo faſtned on his
+hands, and charmed them ſo as they could not hurt him. For no ſooner was
+<hi>Solomon</hi> removed but they ſpit their venome in the face of
+<hi>Rehoboam</hi> his Son, though <hi>for three years together he walked in the
+ways of</hi> David <hi>and</hi> Solomon; but <hi>Jeroboam</hi> in the head of a
+Co<g ref="char:EOLhyphen"/>venanted party upbraids the Son with the tyranny of his Father, 1
+<hi>Kings</hi> 12.4. <hi>Thy father made our yoke grie<g ref="char:EOLhyphen"/>vous,</hi> and would
+impoſe conditions on him, <hi>make thou our yoak lighter and we will ſerve
+thee,</hi> otherwiſe they were ready to ſerve him as they ſerved his
+father <hi>David;</hi> for becauſe he did not preſently gratifie them, they
+ſecond their bold remonſtrance with open defiance, <hi>v.</hi> 16. <hi>What
+portion have we in David, &amp;c.</hi> And why in <hi>David?</hi> but to ſhew
+that they hated him the more for his ſake for whom God loved him, even his
+father <hi>David.</hi>
+            </p>
+            <p n="2">2. Such complaints are irrational becauſe by them men
+create troubles to themſelves and others. Their in<g ref="char:EOLhyphen"/>diſcreet fears and
+precipitate actions betray them to thoſe dangers they ſeek to avoid, as
+children in a boat which they fancy ready to ſink, on one ſide, fly all to
+the other and overturn it on themſelves,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is not ſo much the things
+we fear or ſuffer as our falſe opinions of them, whereby we torment our
+ſelves before our time, yea too many vex and diſquiet themſelves for
+thoſe things for which they ſhould rather rejoyce and be thankful. Thus was
+<hi>Cain</hi> troubled that his brothers ſacrifice was better accepted. And
+<hi>Joſephs</hi> brethren repined at his pre<g ref="char:EOLhyphen"/>ferment. We call evil good and
+good evil; and as chil<g ref="char:EOLhyphen"/>dren cry and grudge, if we be denyed thoſe things
+which would prove our ruine.</p>
+            <p>
+               <pb n="18" facs="tcp:43568:14"/>It is our duty therefore to rectifie our
+opinions con<g ref="char:EOLhyphen"/>cerning the true worth and uſefulneſs of things according to
+the word of God and right reaſon, and think that beſt which God ſees to
+be fitteſt for us; and when he gives us bread, not to turn it into gravel and
+ſtones by our diſcontent.</p>
+            <p n="3">3. It is irrational, becauſe by a cauſleſs reflection
+on former, or jealouſie of future times, we deprive our ſelves of preſent
+bleſſings, and catching at ſhadows loſe the ſubſtance. Therefore
+<hi>Solomon</hi> often commends a chearful enjoyment of the fruit of our
+labours, and the portion God hath given us, <hi>Eccleſ.</hi> 9.7. <hi>Eat thy
+bread with chearfulneſs, and drink thy wine with a merry heart, for God now
+accepteth thy works.</hi> And our Saviour forbids us to be ſolicitous for
+what is to come, as <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> doth for what is paſt, <hi>Matth.</hi>
+6.34. And the Apoſtle adviſeth us to be <hi>content with ſuch things as
+we have,</hi> and ſo doth the Philoſopher,
+<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to ac<g ref="char:EOLhyphen"/>commode our ſelves to our
+preſent condition, and if our eſtates will not ſtretch to our-minds, to
+ſtoop our minds to our eſtates. 
+<q>Dona praeſentis cape laetus horae, linque futura.</q>
+            </p>
+            <p n="4">4. It is irrational, becauſe if our condition be bad, this
+is a certain mean to make it worſe. It is like the caſting out Devils by
+<hi>Peelzebub,</hi> a conjuring up ſuch evil ſpirits as we have not power
+to confine or put down again. When men grow weary of the long continued mercies
+of God, and loath Manna, it is juſt with God while the meat is yet in our
+mouths, to pour his wrath upon our heads, and teach us to know the worth of his
+bleſſings by the want of them. God hath exemplarily puniſhed unthankful
+murmurers with extraordinary judgements, that all <hi>may hear and fear and do
+no more ſo wickedly.</hi> The murmuring Iſraelites that <hi>brought up an 
+<pb n="19" facs="tcp:43568:14"/>evil report upon the land, dyed by the plague before the
+Lord, Numb.</hi> 14.37. Others of them <hi>periſhed by the deſtroyer,</hi>
+1 <hi>Cor.</hi> 10.10. And thoſe in <hi>Numb.</hi> 11.18. who having Manna
+enough to eat, <hi>murmured and wept in the ears of the Lord,</hi> ſaying,
+<hi>Who ſhall give us fleſh to eat? for it was well with us in Egypt. The
+Lord gave them fleſh to eat till it came forth at their noſtrils, v.</hi>
+20. <hi>becauſe they deſpiſed the Lord that was among them, and wept
+before him ſaying, Why came we out of Egypt?</hi> And for the puniſhment of
+<hi>Corah,</hi> and ſuch as murmured againſt <hi>Moſes</hi> and
+<hi>Aaron,</hi> the Lord created a new judgment, for the earth opened her mouth
+and ſwallowed them up.<note place="margin">
+                  <hi>Numb.</hi> 16.32.</note> And
+that people were not purged from that ſin till they were utterly
+de<g ref="char:EOLhyphen"/>ſtroyed, as it was threatned, <hi>Deut.</hi> 28.47,48. <hi>Becauſe thou
+ſervedſt not the Lord thy God with joyfulneſs and glad<g ref="char:EOLhyphen"/>neſs of heart
+for the abundance of all things: therefore thou ſhalt ſerve thy enemies
+which the Lord ſhall ſend againſt thee, in hunger and in thirſt, and in
+nakedneſs, and in want of all things, and he ſhall put a yoke of iron on
+thy neck until he have deſtroyed thee.</hi>
+            </p>
+            <p n="5">5. It is irrational, becauſe they complain firſt and
+moſt who have leaſt reaſon. Many a good man who in <hi>Davids</hi> days
+had ſuffered the loſs of all, and came off only with their lives and ſome
+marks of their Loyalty in their bodies and eſtates, were abundantly
+ſatisfied to ſee the King returned in Peace, and the Ark of God ſetled in
+the beauty of holineſs, could ſay with <hi>Mephi<g ref="char:EOLhyphen"/>boſheth, Let them take
+all for as much as my Lord the King is come to his houſe in peace,</hi>
+               <note place="margin">2 <hi>Sam.</hi> 19.30.</note> and were found faithful and
+peaceable in the Land. They were the murmurers who as <hi>Ziba, Sauls</hi>
+ſervant, had made themſelves great with the ſpoils of the Crown and
+Church lands, but were made to refund a part of it. Though they ſtill enjoyed
+not only the publick bleſſings of peace and plenty, and a 
+<pb n="20" facs="tcp:43568:15"/>rich trade, and were received not only to mercy but into
+favour, and did partake of the Wealthy and Ho<g ref="char:EOLhyphen"/>nourable Offices of the Nation,
+equally, if not beyond thoſe that had better deſerved them, did yet think
+them<g ref="char:EOLhyphen"/>ſelves not duly rewarded, (as in truth they were not) and on all
+occaſions reproached the footſteps of Gods anointed, and did not only turn
+their backs on the Or<g ref="char:EOLhyphen"/>dinances of the King, but lift up their heels againſt
+the Ordinances of God alſo.</p>
+            <p n="6">6. It is unreaſonable to murmur and repine at thoſe
+things in others which they practiſed and allowed in themſelves. They
+complained that <hi>Solomon</hi> chaſtiſed them with Rods, when they
+wounded him with Scor<g ref="char:EOLhyphen"/>pions. They accuſed him for endeavouring to rule by an
+Arbitrary power, though he governed himſelf accord<g ref="char:EOLhyphen"/>ing to the known Laws of
+God and the Nation, and often relaxed the ſeverity and ſuſpended the
+execution of them, while they lived in a bold contempt and viola<g ref="char:EOLhyphen"/>tion of them
+all. Great cries were raiſed againſt the Oath of God, and the King, and
+againſt Uniformity to the Temple Worſhip; when they thought they were all
+ingaged by <hi>Jeroboams</hi> Covenant, to bring all within the Kings Dominions
+to an Uniformity according to his Directory for Worſhip. A Toleration was
+thought in<g ref="char:EOLhyphen"/>tolerable, when <hi>Jeroboam</hi> had ſet up his Calves, and he
+himſelf burnt Incenſe and made Prieſts of the loweſt of the people,
+leſt the Kingdom ſhould return to the houſe of <hi>David</hi> (for the
+true worſhip of God would reduce them to obedience to their lawful
+King.)<note place="margin">1 <hi>Kings</hi> 12.26.</note> 
+               <note place="margin">2 <hi>Kings</hi> 12.28.</note> But under the
+Temple ſervice a Toleration is pleaded for as neceſſa<g ref="char:EOLhyphen"/>ry for the eaſe
+and liberty of the people, and if it be de<g ref="char:EOLhyphen"/>nyed, they complain of Tyranny and
+Perſecution, when by this means <hi>Jeroboam</hi> and a few diſſenters
+under him deluded the people, and making them believe that he 
+<pb n="21" facs="tcp:43568:15"/>and his Calves were the Gods that brought them out of
+<hi>Fgypt,</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 28.</note> led them directly
+thither, and betrayed them to that abominable Idolatry. So that in truth the
+In<g ref="char:EOLhyphen"/>dulgence which was granted them did produce more miſchief than all the
+puniſhments inflicted by <hi>Solomon,</hi> which they cauſleſly called
+perſecution. <hi>Wherefore thou art inexcuſable O man whoever thou art that
+judgeſt, for wherein thou judgeſt another thou condemneſt thy ſelf,
+ſeeing thou doſt the ſame</hi> (or worſe) <hi>things: And</hi> (though
+thou eſcape the judgment of man, yet) <hi>think not that thou ſhalt
+eſcape the judgment of God, Rom.</hi> 2.1, <hi>&amp;</hi> 3.</p>
+            <p n="7">7. What is more unreaſonable than for men to take
+oc<g ref="char:EOLhyphen"/>caſion to grow more troubleſome from thoſe things which ſhould quiet
+them as diſcontented ſpirits are wont to do? Let favour be ſhewed to the
+wicked, and he is the more bold and preſumptuous. They turn the grace of God
+and the King too into wantonneſs. Every indulgence (as to froward children)
+makes them more pettiſh and inſolent, every conceſſion and yielding is
+uſed as a ſtep for them to aſcend higher and preſs forward until they
+get uppermoſt. The craving humor increaſeth by be<g ref="char:EOLhyphen"/>ing fed, and with
+<hi>Solomons</hi> horſe-leech thy cry Give, Give, though they have
+ſwallowed ſo much that they are ready to burſt. Never was any thing in
+the world ſo well eſtabliſhed, but there were ſome envious men that
+found fault with it.</p>
+            <p>Laſtly, It is irrational, becauſe it is an incurable evil. It
+is <hi>opprobrium medicorum,</hi> ſuch a plague of the heart as the beſt
+State Phyſicians have not been able to cure. It will not admit a plaiſter
+or a medicine to be applied to it. This evil ſpirit though it be not dumb,
+yet is it ſo deaf, that it will not hear the voice of any Charmer though he
+charm never ſo wiſely. Neither the mercies nor judg<g ref="char:EOLhyphen"/>ments of God, nor the
+meekneſs nor miracles of <hi>Moſes</hi>
+               <pb n="22" facs="tcp:43568:16"/>could convince
+the murmuring <hi>Iſraelites.</hi> And when ſome of them ſaw
+<hi>Corah</hi> and his company ſwallowed up of the earth, yet as if there had
+been a tranſmigration of their Souls into their Survivors, the next morning
+they murmur again, ſaying, Ye have ſlain the people of the Lord. The
+worſt ſort of Spirits that we read of, might be caſt out by Prayer and
+Faſting; but this kind can faſt and pray, and ſeemingly reform and
+ſweep and garniſh the houſe, and then admit ſeven worſe than it
+ſelf, and at the end is worſe than in the beginning. The Scripture compares
+this murmuring and rebellious ſpirit to the ſin of Witchcraft which is
+ſeldom reclaimed to a pious or ſober temper, for like men in a
+Conſumption they ſeem pleaſed with the diſeaſe, and as <hi>Jonah</hi>
+they think they do well to be angry with God himſelf, which is the next
+particular, it is not only irrational but <hi>irreligious.</hi>
+            </p>
+            <p>Firſt, becauſe theſe men make lyes their refuge, and ſeek
+to hide their ſin under falſe pretences; for it were eaſie to prove, that
+no times before <hi>Solomon</hi> were ſo proſperous as his. Though
+<hi>David</hi> his Father was a man after Gods own heart, yet neither he nor
+the Ark of God could find a reſting place. It was yet worſe in the days of
+<hi>Saul,</hi> between whom and the houſe of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> there was
+continual war; and before that in the days of <hi>Samuel</hi> when God
+himſelf was their King, we find that they rejected not <hi>Samuel</hi> only,
+but God himſelf. And in the times of <hi>Anarchy</hi> when there was no King
+in <hi>Iſrael,</hi> there was no peace to him that went out, or to him that
+came in, but every man did what ſeemed good in his own eyes. Before this how
+long did God bear with the murmuring <hi>Iſraelites,</hi> not in the
+wilderneſs only under <hi>Moſes</hi> the meekeſt man upon Earth, and
+<hi>Aa<g ref="char:EOLhyphen"/>ron</hi> the Saint of the Lord, but in <hi>Canaan</hi> againſt God 
+<pb n="23" facs="tcp:43568:16"/>himſelf. And from the beginning <hi>Cain</hi> ſlew
+<hi>Abel,</hi> and ſo it will be to the end of the world. So that it was a
+falſe pretence that the former days were better than <hi>Solomons.</hi>
+            </p>
+            <p n="2">2. It was irreligious, becauſe Religion teacheth us with
+all thankfulneſs to acknowledge the bleſſings of God and to ſay with
+<hi>Jacob,</hi> I am leſs than the leaſt of all thy mercies, and not to
+undervalue them, and expoſtu<g ref="char:EOLhyphen"/>late with God why am I thus? and what is the
+cauſe? as if the Almighty had not rewarded us according to our deſerts, or
+ought to do nothing but what our reaſon ap<g ref="char:EOLhyphen"/>proves of. They ought to have
+conſidered how happy they might have been under ſuch a King, the Son of
+ſuch a Father, upon whom God had ſet ſuch Signatures of his own wiſdom,
+Clemency and juſtice, whom God made his <hi>Jedidiah</hi> from his birth, and
+appeared more than once or twice in many wonderful deliverances of him
+againſt the Conſpiracies of <hi>Jeroboam,</hi> the diſcon<g ref="char:EOLhyphen"/>tents of
+<hi>Joab, Abiathar</hi> and <hi>Shimei</hi> who went to <hi>Gath</hi> to confer
+with fugitives and imbroil the kingdom again. If we read of <hi>Solomons</hi>
+faults we read of his repentance alſo, this Book of <hi>Eccleſ.</hi> being
+a record of his Peniten<g ref="char:EOLhyphen"/>tials. So that indeed the greateſt cauſe of Evil in
+his later days was the libertiniſm of ſome who like ſons of
+<hi>Belial</hi> would indure no yoak nor were ſatisfied till they had got an
+Indulgence, and were more unſatisfied after they had it. How much better had
+it been for them while the true Religion and publick peace were in ſafety, to
+have been humble and thankful to God and the King, to reform their own
+iniquities and to mourn in ſecret for the Vanities of the Court?</p>
+            <p n="3">3. If <hi>Solomons</hi> days had been as bad as the ſins
+of theſe men deſerved, yet were it a point of piety to ſubmit to the
+mighty hand of God and bear his indignation. This<pb n="24" facs="tcp:43568:17"/>was
+<hi>Solomons</hi> preſcript approved by God himſelf, 2 <hi>Chron.</hi>
+6.24, <hi>&amp;c. If the people flee before their enemies, if there be famine
+or peſtilence.</hi> What is to be done? ſurely not as they did in the
+Prophet, <hi>Jer.</hi> 8.20. who did fret themſelves and curſe God and the
+King, and look up<g ref="char:EOLhyphen"/>ward, as if they would be revenged on all that were above
+them, but every man ſhould <hi>ſearch out the plague of his own heart and
+repent, and make his ſupplication in Gods houſe ſaying, I have ſinned
+and done perverſly, and commit<g ref="char:EOLhyphen"/>ted iniquity,</hi> and then God promiſed to
+<hi>hear their prayers, to forgive their ſins and heal their land.</hi> Thus
+did King <hi>David</hi> in his diſtreſs, he ſaw the hand of God in it,
+<hi>and opened not his mouth becauſe it was the Lords doing;</hi>
+               <note place="margin">
+                  <hi>Pſ.</hi> 9.39.</note> and with this God quieted the men of
+<hi>Judah</hi> and <hi>Benjamin</hi> in the caſe of <hi>Jeroboam: This thing
+is from me.</hi>
+               <note place="margin">1 <hi>Kings</hi> 12.24.</note> And though
+they did not think ſo of King <hi>Solomon,</hi> yet they ought to think that
+God was wiſe enough to diſpoſe of all things for the good of his Church
+and people.</p>
+            <p>God and his Vicegerents have their <hi>Arcana imperii</hi> not to
+be raſhly cenſured or curiouſly inquired into. We ſhould do our duty
+and leave the conduct of publick af<g ref="char:EOLhyphen"/>fairs to God whoſe Providence over-rules
+all, and it is much better that things ſhould be as God would have them than
+as we would, for he acts all towards wiſe and gracious ends, to which though
+humane actions like the lower Spheres have a contrary tendency of their own,
+yet the firſt mover makes them all tend to his decrees who brings order out
+of Confuſion, and all whoſe ways are mercy and truth to them that keep his
+Covenant. <hi>Non eſt judicandum de operibus Dei ante quintum actum,</hi> we
+are ſhort-ſighted and cannot ſee to the end of Gods works which are begun
+in ſecret, &amp; ſometime carried on by con<g ref="char:EOLhyphen"/>trary means, by weak and divers
+agents, but he knows how to bring light out of darkneſs and harmonyout of
+diſ<g ref="char:EOLhyphen"/>cord,<pb n="25" facs="tcp:43568:17"/>and all his providences ſhall end in
+Holineſs and beauty too. This is that which <hi>Solomon</hi> obſerved,
+<hi>Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 3.11. <hi>God hath made every thing beautiful in its
+ſea<g ref="char:EOLhyphen"/>ſon,</hi> when it comes to its perfection. Some may think there is no
+neceſſity of Thunder and Lightning, Storms and Tempeſts, Froſts and
+Cold, yet theſe contribute to the cleanſing of the Air, the health of our
+bodies and the fruitfulneſs of the year, as much as calm and Sun-ſhine
+days. In checker-work the variety of black and white adds to the beauty; and
+ſome works of Providence like the <hi>China</hi> veſſels, are wrought and
+perfected in the bowels of the earth and require an age for their Perfecti<g ref="char:EOLhyphen"/>on,
+but then they come forth ſo tranſparent that every one that conſiders
+them may ſay, <hi>This is the Lords doing, and it is marvellous in our
+eyes.</hi>
+            </p>
+            <p n="4">4. It is irreligious, as being the ready way to deſtroy
+Religion, and if that be ruined, we may write <hi>Ichabod</hi> on all things
+elſe. And this is not more eaſily deſtroyed than by our murmurings and
+contentions about it; this Dove cannot fall but by a dart feathered from her
+own wing. The little Foxes within that undermine the Hedge of Diſcipline,
+make way for the wild Boar to break in and root up our pleaſant Vines. 'Tis
+our crumbling into little factions under pretence of Religion, that expoſeth
+us to the enemies of it. If the dangers we fear could but make us unite, our
+Union would make us ſafe againſt all the attempts of our common
+adverſaries.</p>
+            <p n="5">5. It is a tempting and provoking of God in a high degree to
+complain of thoſe evils, whoſe cauſes and re<g ref="char:EOLhyphen"/>medies are in our own power.
+But while we complain of them with our lips, we draw them down with both our
+hands. This is to do as the <hi>Jews</hi> who cryed out <hi>Venient
+Romani,</hi> while they were Crucifying the Prince of Peace, and ſo made way
+for thoſe <hi>Roman</hi> Armies that brought a perpetual deſolation on
+them. If we only<pb n="26" facs="tcp:43568:18"/>make an out-cry againſt Popery, and
+inſtead of making up the breaches ſtill inlarge them by quarrelling with
+ſuch as are more ready and skilful to do it than our ſelves, that
+<hi>Roman</hi> Eagle may make a prey of us all. But if, as God hath founded us
+upon a rock, and compaſſed us about with his Salvation as with Walls and
+Bulworks, we would be as <hi>Jeruſalem,</hi> a people at unity among our
+ſelves; if as St. <hi>Paul</hi> adviſeth, we would do our duties to God and
+the King without murmurings and diſpu<g ref="char:EOLhyphen"/>tings, thoſe proud Waves that
+oppoſe themſelves would be daſht in pieces as hitherto they have been,
+and nei<g ref="char:EOLhyphen"/>ther the gates of <hi>Rome</hi> nor of Hell prevail againſt us.</p>
+            <p>Laſtly, It is irreligious, becauſe it deſtroys the whole
+Analogy of Chriſtian Faith, it reflects on Gods Provi<g ref="char:EOLhyphen"/>dence, as if he wanted
+Wiſdom or Goodneſs to Govern the world, and ſets their mouths againſt
+Heaven, as that proud <hi>Alfonſus</hi> who ſaid of the Creation, that if
+he had been preſent he could have diſpoſed of things in a better method.
+It undermines the foundation of all Government in Church and State and
+Families, if Infe<g ref="char:EOLhyphen"/>riors ſhould be allowed to queſtion the Commands and
+Actions of their Superiors; it makes thoſe Chriſtian graces of meekneſs,
+patience and obedience, which are injoyned towards evil Governours,
+impoſſible. It robs the Soul of that tranquillity and peace which it might
+have by reſigning it ſelf to God in well-doing. The ſpi<g ref="char:EOLhyphen"/>rit of grace and
+peace will not enter into a diſcontented ſpirit. <hi>God was not in the
+earthquake or the whirlwind, but in the ſtill voice,</hi>
+               <note place="margin">1
+<hi>Kings</hi> 19.11.</note> in the ſedate and chearful Soul. And therefore
+<hi>Moſes</hi> calls the murmuring <hi>Iſraelites,</hi> ſin<g ref="char:EOLhyphen"/>ners
+againſt their own Souls, (<hi>i.e.</hi> againſt their peace and comforts of
+their life.) 
+<note place="margin">
+                  <hi>Numb.</hi> 36.38.</note> The Serpent will
+devour the Dove, and theſe meager thoughts, like <hi>Pharaohs</hi> lean kine,
+eat up better thoughts and affections. To a mur<g ref="char:EOLhyphen"/>muring Soul wiſdom will not
+enter. And in a word, it<pb n="27" facs="tcp:43568:18"/>would make the Chriſtian Religion
+to ſtink among the heathen: and therefore thou doſt not wiſely to inquire
+after ſuch things.</p>
+            <p>I have now finiſhed my Diſcourſe on the Text, and if my
+hearers will but apply the things ſpoken of <hi>Solomons</hi> Kingdom to our
+own, as every ordinary capacity may do, there needs no other Application. I
+ſhall end there<g ref="char:EOLhyphen"/>fore as I begun, <hi>Ne dicas,</hi> Say not thou a
+confederacy to them that ſay a confederacy to thee, be not allured by their
+promiſes, nor affrighted by their threats, for their feet are ſwift to
+ſhed bloud, deſtruction and miſery are in their ways, the way of peace
+they have not known, and there is no fear of God before their eyes. Learn we of
+the men of <hi>Iſachar</hi> in <hi>Davids</hi> days, who <hi>had under
+ſtanding of the times, to know what Iſrael ought to do.</hi>
+               <note place="margin">1 <hi>Chron.</hi> 12.32.</note> 
+               <note place="margin">Penes vos. eſt rcrum Arbitrium, nobis re<g ref="char:EOLhyphen"/>licta
+eſt ob<g ref="char:EOLhyphen"/>ſequii Gloria,</note> Fear God and Honour the King, and meddle not
+with them that are given to change: but leave the Adminiſtration of publick
+affairs, and the care of Succeſſion of Crowns and Kingdoms to God and our
+Superiors, who are more concerned in them and will provide better for them than
+we can do. Let us ſet bounds to our Paſſions by Reaſon, to our Fears
+and jea<g ref="char:EOLhyphen"/>louſies by Religion, to our Errors by Truth, to our Schiſm by
+Charity and an unanimous conſent in the Worſhip of God, and to our
+Murmurings by a cheerful improvement of the bleſſings we enjoy: that the
+voice of the Turtle may be heard in our Land, even Praiſes to our God for the
+wonderful mercies of This day, and for the continuance of them, Prayers for our
+King in the words of <hi>Solomons</hi> Subjects, 1 <hi>Kings</hi> 8.66. <hi>The
+Lord make the name of</hi> Solomon <hi>better than the name of</hi> David,
+<hi>and his Throne greater than the throne of</hi> David; <hi>and they went to
+their tents joyful and glad of heart for all the goodneſs that God had done
+for</hi> Solo<g ref="char:EOLhyphen"/>mon <hi>his ſervant, and for Iſrael his people,</hi>
+Amen.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
